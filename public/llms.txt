@@ -1,0 +1,70 @@
+# עדן מזרחי אדריכלות ועיצוב פנים — Generative Engine Optimization Map
+
+> An independent architect and interior designer with 4 years of experience who accompanies and manages design projects from start to finish. The business focuses on professional project guidance, combining architectural expertise with interior design sensibility. The freelance nature suggests a personal, boutique-style practice with hands-on client involvement.
+
+---
+
+## Pages
+
+### בית
+https://-aade86d2.zappy5.app
+מחפשים אדריכל ומעצב פנים שילווה אתכם צעד אחר צעד? עדן מזרחי מציעה ליווי פרויקטים אישי, רגיש ומקצועי. קבעו פגישת ייעוץ ראשונית עוד היום.
+
+### תודה שפניתם אלינו
+https://-aade86d2.zappy5.app/thank-you
+עדן מזרחי אדריכלות ועיצוב פנים - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-aade86d2.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-aade86d2.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-aade86d2.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-aade86d2.zappy5.app
+- Endpoint: https://-aade86d2.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About עדן מזרחי אדריכלות ועיצוב פנים
+An independent architect and interior designer with 4 years of experience who accompanies and manages design projects from start to finish. The business focuses on professional project guidance, combining architectural expertise with interior design sensibility. The freelance nature suggests a personal, boutique-style practice with hands-on client involvement.
+
+## Target Audience
+- בעלי בתים יוקרתיים
+- רוכשי בתים חדשים
+- בעלי נכסים מסחריים
+
+## Industry
+Architecture & Interior Design
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-aade86d2.zappy5.app/sitemap.xml
+- Robots: https://-aade86d2.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-aade86d2.zappy5.app/llms-full.txt
